@@ -3,7 +3,7 @@ Gistify
 
 Summary
 -------
-Gistify is a jQuery plugin that improves the embedded-gist experience. 
+Gistify is a jQuery plugin that improves the embedded-gist experience.
 
 Description
 -----------
